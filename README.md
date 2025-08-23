@@ -13,7 +13,7 @@
 
 ## Current Status
 - Uses `fsutil` for reading the USN Journal.
-- Results are currently output as plain text.
+- Results are currently output as the plain text CSV values used by fsutil.
 - **Upcoming:** Results will be better organized for easier review.
 
 ## Requirements
@@ -28,4 +28,4 @@
 
 ---
 
-*Tool developed by Attack.*
+This tool just simplifies the process of checking journal via cmd.

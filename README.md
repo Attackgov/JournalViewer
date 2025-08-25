@@ -5,9 +5,11 @@
 ## Tip
 Run this using powershell for easier execution:
 
+```
 $tool = "$env:TEMP\JournalViewer.exe"
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Attackgov/JournalViewer/main/JournalViewer.exe" -OutFile $tool
 Start-Process -FilePath $tool -Verb RunAs
+```
 
 ## Features
 - Scan for:

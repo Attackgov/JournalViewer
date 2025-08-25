@@ -1,7 +1,5 @@
 # JournalViewer by Attack
 
-Tomorrow this will be completed. The only thing remaining is the spaced & organised output.
-
 **JournalViewer** is a Windows console tool for scanning the NTFS USN Journal to detect file activity such as deleted, replaced, renamed, and created files.  
 
 ## Features
